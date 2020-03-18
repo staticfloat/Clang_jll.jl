@@ -9,4 +9,4 @@ libLLVM_jll = "8f36deef-c2a5-5394-99ed-8e07531fb29a"
 
 [compat]
 julia = "1.0"
-libLLVM_jll = "9.0.1+2"
+libLLVM_jll = "9.0.1"
