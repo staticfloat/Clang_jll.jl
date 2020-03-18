@@ -250,3 +250,12 @@ os = "freebsd"
     [[Clang.download]]
     sha256 = "6968566a1c644bc2ba48aa879edfaf107b71c90a854e6af7a925f557e69a06a4"
     url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v9.0.1+1/Clang.v9.0.1.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[Clang]]
+arch = "x86_64"
+git-tree-sha1 = "0c16254c3373e9f8752795683645562d6a8e75f7"
+libc = "glibc"
+os = "linux"
+
+    [[Clang.download]]
+    sha256 = "21bc29e5fdc8e2a7a90217bd3e11b8e7e7ecd16943d58482034d1d47203cf8b1"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v9.0.1+1/Clang.v9.0.1.x86_64-linux-gnu.tar.gz"
