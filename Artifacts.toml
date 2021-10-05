@@ -1,288 +1,288 @@
 [[Clang]]
 arch = "aarch64"
-git-tree-sha1 = "b743ff148975188465e5a614ab2a75ebb190818b"
+git-tree-sha1 = "bb2ae850464795777f36202dd7e790b0db2f2064"
 os = "macos"
 
     [[Clang.download]]
-    sha256 = "3ee0cb746a118e67d2ad96eb4d6c8070220eca1f1b755a1de3277506a11a1615"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "79ba9d19184c3df76694523d8a49acdc53a5ba88c30cc966537de5258b950eaf"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.aarch64-apple-darwin.tar.gz"
 [[Clang]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "12cfa74655817f3431ec573022b7362a5db6ed53"
+git-tree-sha1 = "600b2be6dbe19d9125a349193eb1b3eb184301a6"
 libc = "glibc"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "263febf6d6a1ddd8dca53b3d481735d5c1b42c0811f732892392cdeaacefee6c"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "5d8ed74cc6032213cc497e33fd57b8c0d26386f302ec972d9ac35215e0f710d0"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[Clang]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "13e7dfb0fb8eb85b94808858df02dbead96071df"
+git-tree-sha1 = "023c477862419fdef42e887d7d3196a78f22182e"
 libc = "glibc"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "af5e4079c004d4346d609ae204b27cf8c016ef661ff429362be1de81f5c983e3"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "f525bb1075cd8f4a4598990cc4de352ec10ba828ae0f718c8da0abca2e90a782"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[Clang]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "926c125348e277ffddf57b75d22ed8a9c733a928"
+git-tree-sha1 = "a0da9b1ef6db5b4636b6424fe5dd503d06fadc90"
 libc = "musl"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "f3eac385505dd0e2e70ac3e8fa5790e1064211c980a30ef52bee67a1a5dd6beb"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "9ea7e0e3a24ac8662df42b12d6f9496a8bbc2cb0608e78c274398902394b3858"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.aarch64-linux-musl-cxx03.tar.gz"
 [[Clang]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "24802484d0ff4120edfb9b8f0a275ea4b9edf9d1"
+git-tree-sha1 = "39a1f03ed2946aed1ee21976409eb0f641853124"
 libc = "musl"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "0ecfebea9bd42a98212a8d3259c3fd1d61082d730e0762a12f85d02a2d92730c"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "5dad74eb5b64c311ac5aad64435d1e67faa2884b731b876dd5cc988067174ded"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.aarch64-linux-musl-cxx11.tar.gz"
 [[Clang]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a41f4060d3bd273b3046931bf5e056efaa053ec6"
+git-tree-sha1 = "787f6409d137cece84752253f1d6281364b90b55"
 libc = "glibc"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "ceef646fe71fe3687d7437fbbd65faaf8b48e8b25f7bf4d8fed0e8eabfe3d878"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "def378700b521c23693585ee4662685c0725daa445359a0e14188be77666516d"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[Clang]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cf314b0dd9a646889b37a798ed099368030132c3"
+git-tree-sha1 = "d4805cfb7dc5f269e1cf53ee05f72367f30069e3"
 libc = "glibc"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "6afd4f4c909bc3f83e0f66ed5e84361e9089e9fcd05029fef7e1f165596fa353"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "74550c3dce03719f663bcd8080fe0ffce821ce822dcbc61b233d474c6bc19e69"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Clang]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6bdc8acb117c35c5aa93b928e511a3b5c7e1bc64"
+git-tree-sha1 = "eb09029b4d8e4ee6995387cb7961cf03a19c1129"
 libc = "musl"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "b8c51db9f094a673333fd61514037cfbcb21c26dcd12b3eb43b47e396bcdd381"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "0e5e1f27686f7cb0fa1caa51e3d389aed5d9c28b6f12e09fd29dab551a0ff09e"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[Clang]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ee7bb2d8afba1c8457b2b50e97a2ea4ea455d111"
+git-tree-sha1 = "f50bdb8386a0db6e59b30047fdcdefbea7f95425"
 libc = "musl"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "e53a9a800fb6ddb898f51e5109a5ed68df7bbc6779806c77b483f3603cb98683"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "90204c6578ad731228d9b4a308399395ae19f06983fa1cee03d277360bcd0529"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Clang]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "164c21a1388a6a263d8a10c64fb14788ac4f1e43"
+git-tree-sha1 = "bc039852906206c2c65fddcc14bf4b0327428793"
 libc = "glibc"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "dbd06ec21e11e45e6236be428ecd24b2b35ab45a379c88dd436f483c6ee0e053"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "3c8a6d141a1d929771c07f6c06a0a1ed5275dc39564e8b93eb54c2875fe13d0d"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Clang]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fca9903fe983818fe5afe0df2413a83d2e083de5"
+git-tree-sha1 = "2104f66b3a9f8a5ff7db59cb6073b3d939b444fe"
 libc = "glibc"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "496dc0cb63e1877dbef47784397006b8fb709d4fd4d352827c837fe5d04d54c4"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "5f74c6d9c029dc6ae6db0d3b1a28cd6cb7d159c2cb1c70d00e1e5ffe3703ab22"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Clang]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1d6d14c90c27e007683a21254bee1d5978407603"
+git-tree-sha1 = "4135c1c5de976f14c5d9cae8660d2039a8cf3541"
 libc = "musl"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "d673ffd43c01ed81b6326fe76b5b44dacffc3b7725daaecb5934132d4b13fb59"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "58d774e3923ceab0d1e76be2112c0e5a75777962cd87773158db4c48d6c99d6f"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Clang]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c698357ac417841592966a7eff001d8825c3dc77"
+git-tree-sha1 = "3159e79c97760ce5fdf36f07174121c1f7b637ff"
 libc = "musl"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "d680c0a43c4e43923aa57141f5aa593e78d11450b454f8896c1198797870ea1d"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "e660459c74345d8e4abb14b3c6482aa233134af5e9176de9c2813cd6e829f0d2"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Clang]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "81d8e7a99247d49c7576b0280d1f84d6ccb8377b"
+git-tree-sha1 = "8d4fdbccdd99c30317001b4c47f6c9c3cf131586"
 libc = "glibc"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "08a14ac2c51c2f8e0b637f044813078e1d410d567e918692ca0e5fa997e6a359"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "e018f5f9d39d52d6c1b608fd68b08d680429af77f84db2e33a8b916523724fda"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.i686-linux-gnu-cxx03.tar.gz"
 [[Clang]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8dcf38d6e6fb8b024956568af029e2af8d6fd2fd"
+git-tree-sha1 = "76899a5cf69771f5ad30c7664946dcf4ea554aaf"
 libc = "glibc"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "8ae6bf01088522f7c05385f18af807608850f4171116bc59ff4b78168b4c56a5"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "8e56a1d32ee315de5871335a95deb76467f76c240e09cbf476c9746eb4eb6de7"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.i686-linux-gnu-cxx11.tar.gz"
 [[Clang]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "90bae388b503518f9562cde3944f4121c231072e"
+git-tree-sha1 = "27f7fd70431f79f856151c05f1b6b6a1b0f86a0c"
 libc = "musl"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "2d7afaf63eccca110f9537864c91655ae48fca219dca733176a91e21a90d5cea"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "eb090a5841976a9217f38fc35b706ddb377a8dbb24b8929a306dd8be7f5bfc5f"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.i686-linux-musl-cxx03.tar.gz"
 [[Clang]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3a192580f0534a4b2f9b0135ac910f01d719c527"
+git-tree-sha1 = "3e0bb943189ebf72dac03875a210eca77b1770ec"
 libc = "musl"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "89ba24b14f320a40ad507118367c3e881ae5bc74caf8eded54c6cd1f61d872aa"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "ae09a1af8b29950601f7e66c60bbf79d831eeffc4770a9eb814c14fff0e7391b"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.i686-linux-musl-cxx11.tar.gz"
 [[Clang]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6dee65e3c6d59ff9c75507709c79a112b010b83a"
+git-tree-sha1 = "f618f39e6111d53fe7b85eaa41a71d2df25946bb"
 os = "windows"
 
     [[Clang.download]]
-    sha256 = "883e3cb8ca53d149f85705a6fe27167db6b84a4ac80d0c88dcd4b8dc044d5014"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "47765115f2e56818495c4be485763d60235b43e71d88ca036323afdc558ed099"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.i686-w64-mingw32-cxx03.tar.gz"
 [[Clang]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fbd90065db2d52bd760ed10008dbd4ed87a84b9f"
+git-tree-sha1 = "178c054dde27bc155f565784ca4ff37d12e14f02"
 os = "windows"
 
     [[Clang.download]]
-    sha256 = "c2f427dc3c7f6cb74d84326cba5c5ed0e9d80525186ea58615067c44938553ae"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "b9d9b54f29cd50ab7fc52391f91912fc0a587f222b11500af80d0590c614e2ec"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.i686-w64-mingw32-cxx11.tar.gz"
 [[Clang]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf8cb80ec875395f50772282a257046a1e959c02"
+git-tree-sha1 = "5223e945cea1acf41704b30c20553d6d4380d6c6"
 libc = "glibc"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "25e059a91d054cdbf5d0df50002b05bf277bc41114a31ca31cfc6e4c034ef15f"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "fa6e1d75b72927827200d196be5555153deb04167b637faa4abeaca059edb63b"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Clang]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6fe66ef3b8403a4ee5206f3e4dd42c57e5af790c"
+git-tree-sha1 = "c300e41055022553ad4b9a87659bad135f987a4d"
 libc = "glibc"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "5afd40a79bebfeacb3908a35381a8a2ab075b13d031068dd0b7a4149ebf0db6a"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "a89121ff0831c9099df1f071bd91e784d3a43fa70b9cadb12edc323d092a55ec"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Clang]]
 arch = "x86_64"
-git-tree-sha1 = "b0ea460695c08b36bfbc327e25de6ab7663c3c16"
+git-tree-sha1 = "807a78ae469baf39a933c1cdabc3513076bafa7d"
 os = "macos"
 
     [[Clang.download]]
-    sha256 = "40c8cbec3b09ae5ec94eee2cf3374fdc7050341cb726347ad3049ebfdc535161"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "506eb7cbb187af476904d108852098ad317fc62e7a26be697c34773e171a986d"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.x86_64-apple-darwin.tar.gz"
 [[Clang]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "acf4bf07768dde1a33741540c7e21903e3986704"
+git-tree-sha1 = "9dc149f9a31f5e7b6068a6a8f377683c61ded52e"
 libc = "glibc"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "8d4b82ed847dda170bfe504206cb445c09e6434d1fee5d100d810ce4e5602a85"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "46148ea45a37f5e5de8772d8ffd5409caa592a85c3658f84fa9e65556634a753"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[Clang]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9681c6bc6ea1b3d3422826a1920099558d0efa92"
+git-tree-sha1 = "ebac8bb0527804a315b230ade306d81c03684e58"
 libc = "glibc"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "2656418dea1c2a656426c1f728b3c04db03ec79c5c058c5d0ecad2be4f60567b"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "218acd9899502c24f39dbda3a0669b7af299dcb6f93e5818ce8a52bad9c4135c"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[Clang]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c4dd2c29075385c987100f15830a9a72909f3f2a"
+git-tree-sha1 = "fbeb26610916885ec4e2a595f650e25d09c3e1cc"
 libc = "musl"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "ee0153edc67935b36f738736e4016ee7e6b11ff18391f482d969df909ee17c77"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "789349647704cc3a321dfbc3478adc2c075f7195c716f9352db4df242fee6c43"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.x86_64-linux-musl-cxx03.tar.gz"
 [[Clang]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fec29fbd9c2e197e9d6f203628d8966aa6a71d59"
+git-tree-sha1 = "64db1ea538c633a39f04918fafaff418d5863508"
 libc = "musl"
 os = "linux"
 
     [[Clang.download]]
-    sha256 = "fdf03a974ec29fb2e8e677f89b23ea49962172643f3731290b87070dabec9f68"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "81c01bf02247e5bf959f5c8dfb00b9749d7955c7a1c3580e3dc99650d030e15d"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.x86_64-linux-musl-cxx11.tar.gz"
 [[Clang]]
 arch = "x86_64"
-git-tree-sha1 = "3f460a74fdf8469a69fa7c4788731183a8795eb4"
+git-tree-sha1 = "5d0c9df608fddb6cfde3291718af7916c0282363"
 os = "freebsd"
 
     [[Clang.download]]
-    sha256 = "8a3618b4ce4b53b51e5f48b3fe157e5443940c229a979de7e933725455bea681"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "a94db842b51a20b63f9e8a2ece256c67c5c3b39dcd88f6d25a3c701ed70ef077"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.x86_64-unknown-freebsd.tar.gz"
 [[Clang]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ddbd80dbf7a0632fbfd5269b7e0f712eecab71ca"
+git-tree-sha1 = "c3808c4a1dc49c8758a1ba48e34ce6665c46639d"
 os = "windows"
 
     [[Clang.download]]
-    sha256 = "c3904eecd6374c7fe7a377befc2e89ef9759058c2a0a21fa4034ec4b161b44d5"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "6e41393584b2d97beacdea67e2f2ce247ff44f9e6363150781af492be2ee2f3c"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Clang]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4bd577d82efd3f83db81ebcc1a2f211d504f99ca"
+git-tree-sha1 = "d00503bfe0c9590155cd8f1326fcb33ba5799f3a"
 os = "windows"
 
     [[Clang.download]]
-    sha256 = "8c18029ac4994df8bd328fa0b4893690e12ba3399a6ccf7ad5df3da8ef74da99"
-    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+2/Clang.v12.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "64821adbf642328d2e1bb544fc82747544964602d1dbdea6ea35de3e54002045"
+    url = "https://github.com/JuliaBinaryWrappers/Clang_jll.jl/releases/download/Clang-v12.0.1+3/Clang.v12.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
