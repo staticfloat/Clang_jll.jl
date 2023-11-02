@@ -1,4 +1,4 @@
-# `Clang_jll.jl` (v16.0.6+0)
+# `Clang_jll.jl` (v16.0.6+1)
 
 [![deps](https://juliahub.com/docs/Clang_jll/deps.svg)](https://juliahub.com/ui/Packages/Clang_jll/mPCVY?page=2)
 
