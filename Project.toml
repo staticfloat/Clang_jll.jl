@@ -1,6 +1,6 @@
 name = "Clang_jll"
 uuid = "0ee61d77-7f21-5576-8119-9fcc46b10100"
-version = "17.0.8"
+version = "17.0.7"
 
 [deps]
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"

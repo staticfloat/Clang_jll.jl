@@ -1,5 +1,5 @@
 name = "Clang"
-version = "17.0.8"
+version = "17.0.7"
 julia_compat = "1.6"
 platform_augmentation_code = ""
 
@@ -25,18 +25,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:5c5492cfc16a199e1e6d3e6d5f4bc1d4717fffd8"
+    treehash = "sha1:9569a99a5a0d064cd61d0f8e058cc960ed513c4d"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:41425eaeb07652bee6c4c8f22ced029c67b3b3ff9786f63b2b4becab5a980948"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-x86_64-linux-gnu-target+any.tar.gz"
+        tarball_hash = "sha256:30c64ee05b8c64f3f56d1d096d7e968ef23c9b9505e0542901f99fbc6f7d7bdd"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-x86_64-linux-gnu-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:f888ea8447efd9709943d9ea7c278268db4cd2dc"
+    treehash = "sha1:7e2cfab7b6f03e39d93514cbdba95bd7620a6d12"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:51fa186521ce3f8284f98ece8116f34a671852c90b355ac993adbb2ac7d06069"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-x86_64-linux-gnu-target+any.tar.gz"
+        tarball_hash = "sha256:c709dd9076ad76c476d2181ce6700f3c420fe0f438dadda2794e7ba8e307f4b8"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-x86_64-linux-gnu-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -75,8 +75,8 @@ src_version = "17.0.6"
     treehash = "sha1:26db8606dd629cf7c0b3f4dc5b72942304d9c450"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:1e3f290cd277fee7a14f63df043527fae7814b3d60a7a7f188bb60378d6b8d5a"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-x86_64-linux-gnu-target+any.tar.gz"
+        tarball_hash = "sha256:81eb2d2ddff89da87435ef7ff5767c0f52cf0a9288d3c4198763c912aafa7937"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-x86_64-linux-gnu-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "i686-linux-gnu-target+any"
@@ -99,18 +99,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:1c9aefe1bfddd3f85888fa075f72bff91c3a210a"
+    treehash = "sha1:a7a96f696334991d3f9e6b609e4370df969c4a5e"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:5f721d5c05242b47f1c20dbb04383c9f039e3b5ed8588e53aaf477cf7116c591"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-i686-linux-gnu-target+any.tar.gz"
+        tarball_hash = "sha256:3a2c870df0f440eeaa56bf8d4e98075067e4c0eb1e8fbdfd9d798b4aaa4e7c2c"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-i686-linux-gnu-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:85e1cd539c1785658eb99312e5c2013694ff5fca"
+    treehash = "sha1:8f09b7e068c441f25485e0430dbd556d211e51e6"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:a1de30df69d4d5b3a6d422845b4eb422370b23c80968692e43a6ed114157ce49"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-i686-linux-gnu-target+any.tar.gz"
+        tarball_hash = "sha256:0fadb6b73cc3bf663e071a65b551b75e637f5443c9e921d04013262281d0a430"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-i686-linux-gnu-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -149,8 +149,8 @@ src_version = "17.0.6"
     treehash = "sha1:e4e944ddfa8560b70ab84ad2878adbd20fa2529d"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:fb9472a65c9b6540b6588db298b8343eea2b0061a09b19e2391b3bf05708e4ac"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-i686-linux-gnu-target+any.tar.gz"
+        tarball_hash = "sha256:3fa77951fc48a4128fccde7cf83e8573b28874d5d20cf63bb269442fe72c2b51"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-i686-linux-gnu-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "aarch64-linux-gnu-target+any"
@@ -173,18 +173,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:b03e5ae763a8a1c1ce3cee526f7bee8e02485820"
+    treehash = "sha1:0709ae5f1006dcfc70fa50951527c09a01f4fcd3"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:acbad7d3885f0941466eedf8b2c43a9c3e30e38c223ee285e430f205441aa502"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-aarch64-linux-gnu-target+any.tar.gz"
+        tarball_hash = "sha256:80ebf4aad39641f5f321cc5f37ad358d1093d231ee0af05064b7c165519ec126"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-aarch64-linux-gnu-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:50e53344b1f48675428b2cad275b357110f5feb9"
+    treehash = "sha1:7975142c67a026dbdea2a01212f1bd04d99af584"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:5ed2dec02b5b9072606f2ef896863946082e63866147fcee71716a480b6a09aa"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-aarch64-linux-gnu-target+any.tar.gz"
+        tarball_hash = "sha256:bd53563e7c36ef2bb91e90b83e00a67bd6a56a19b431eeaf123cba185bf6e500"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-aarch64-linux-gnu-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -223,8 +223,8 @@ src_version = "17.0.6"
     treehash = "sha1:01f8258588b66870504c68fdad81618687363de7"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:430ff7a04510a4293c7cbaaacc506dba8ec587462a3cd2616eb2be5e1b7a6b83"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-aarch64-linux-gnu-target+any.tar.gz"
+        tarball_hash = "sha256:93b79c8c2807bea86457f3fff0d9463356df19751ddf83a2a15c88e356a92afe"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-aarch64-linux-gnu-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "armv7l-linux-gnueabihf-target+any"
@@ -247,18 +247,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:53a0baca58491e66aa814e752a1d6587cb1298b1"
+    treehash = "sha1:c857b3d0d25acb60a34dcd77941ee1325ab9eb06"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:9f3ea03130d4bdc6e7892c77decd9a1041daea7d0e8607c42f48ecf51355490c"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-armv7l-linux-gnueabihf-target+any.tar.gz"
+        tarball_hash = "sha256:f55231577e69c573a04827cd14846bcc01928ead6f77c9b624667c844275461f"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-armv7l-linux-gnueabihf-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:40d222608897de373c03ab3a6f87a7c951fd5624"
+    treehash = "sha1:7fba2d1020e4d84961c3c0a5350b664c43edfbe3"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:c420904c659ffc6f00b79329ff8fe1037adef509d8fc4ca91a22e22d9f151455"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-armv7l-linux-gnueabihf-target+any.tar.gz"
+        tarball_hash = "sha256:7ea3ce367c102ad42fe6eb2e18af5e84f70b7308bf1d4f2634a0ba444cb618da"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-armv7l-linux-gnueabihf-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -297,8 +297,8 @@ src_version = "17.0.6"
     treehash = "sha1:3c689ceb48847a3fbf7978348ad027d139273ae3"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:0bc4e918533221dc7e162c46b7cd6ac6349710c2b2ad98c7c88fa9821a2fba82"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-armv7l-linux-gnueabihf-target+any.tar.gz"
+        tarball_hash = "sha256:4acde3a646c3f41847b11e9e75833926b9443de9dc02791c4f25cc9baf1ab496"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-armv7l-linux-gnueabihf-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "powerpc64le-linux-gnu-target+any"
@@ -321,18 +321,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:32c05217d2cefb02a3b9fc49550d90cf1f399ee1"
+    treehash = "sha1:49a8bb7b6795398e0a51bce67716c7064d4f7c99"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:b657d60989eff446ea4dea8258a0bbf2d487acddca8cd606f2cbdf4fd6d39485"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-powerpc64le-linux-gnu-target+any.tar.gz"
+        tarball_hash = "sha256:b7ef268de17d4dfa7cff819666a9d732c8fb07642f81fcedb75a8a12600a3978"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-powerpc64le-linux-gnu-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:a2492813d65edf633ee8a5d2b2a680248ea98c9f"
+    treehash = "sha1:90cf0cf5f8e45e15bf6e8af7bac9b27471908468"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:253cecef31ad6fa44dfde3900d849dea7645b244a45a2ad9dde380058a18c393"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-powerpc64le-linux-gnu-target+any.tar.gz"
+        tarball_hash = "sha256:c6c0f85d33ca8447cdf555b96aeb82b311149f3bc90b756045b8f607732837d2"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-powerpc64le-linux-gnu-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -371,8 +371,8 @@ src_version = "17.0.6"
     treehash = "sha1:07c5a011c2da887a6568627d0ce25550e53acb82"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:87795500c876e7e01d473832d1aeb92bd1405bbd9bbf7e1fd297233e13df7977"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-powerpc64le-linux-gnu-target+any.tar.gz"
+        tarball_hash = "sha256:cb8fbee230ada66320e4933e9662f039bb2d54cbeb144d85ef2792be76ddd993"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-powerpc64le-linux-gnu-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "x86_64-linux-musl-target+any"
@@ -395,18 +395,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:07d54910fcb78d5229fd7fbb1e5ca977cf4ce658"
+    treehash = "sha1:0fa44025c003b10b78c4cea2e0319101da128da0"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:8928ff8ab57968fc6788e7f0883f792c5fd29afe98ac9acaf4d72302166b0ddd"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-x86_64-linux-musl-target+any.tar.gz"
+        tarball_hash = "sha256:46326f191b1d56c8de0de1c6f6c1cc8ccc7e347ef36aa24832d582a06a98736c"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-x86_64-linux-musl-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:15fa568c58d537e5e0638ce1c26636d74397765d"
+    treehash = "sha1:67fb2736e826a67a2f5eaec1ba687dbb01fa7c82"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:0a2b354900579593da835b10c6da96f075101ce5b13250929e871ca98e844f87"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-x86_64-linux-musl-target+any.tar.gz"
+        tarball_hash = "sha256:a2e0e0236e6936bacc70bdb4fd983b16cfa8a2a34ca8fe070fda404133d4ab35"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-x86_64-linux-musl-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -442,11 +442,11 @@ src_version = "17.0.6"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:cc9093c3f8a6919153af3a755449d0cfa4636aec"
+    treehash = "sha1:bb0cd611053b69d5e8174ec403dccd52ff86dc96"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:55ea935763df21c30b578d941c936d4a5719ce203853a6fb9eac95e03851fdea"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-x86_64-linux-musl-target+any.tar.gz"
+        tarball_hash = "sha256:02796619521494bc4c5ba96f31bdb8a7257b4cd9553988d6418838c693c91091"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-x86_64-linux-musl-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "i686-linux-musl-target+any"
@@ -469,18 +469,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:bafa0602a1d16f94265ea34d20fb00ae2b429e82"
+    treehash = "sha1:9ed3475f205982c97348f42dc0f9b7c62dc8e768"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:fcef3612c52a70196c377b223acba2bacf2ac500546646e1d7172c2e1a85f62a"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-i686-linux-musl-target+any.tar.gz"
+        tarball_hash = "sha256:e8b7d8218865dbb2f8b64779db7bbc410afedd735bdaf4eaf384b3f4a18d2581"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-i686-linux-musl-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:6daca4b32161eb4d6d5a5d0ea4719c3927effa2f"
+    treehash = "sha1:b516cd85eb5a316c8e448313e4bb87d0e1bddf70"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:a318b2ce580c66d2826a946ec27f2bc207fc333a216d49f24307d72bafff42f6"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-i686-linux-musl-target+any.tar.gz"
+        tarball_hash = "sha256:9a36a1c1894b9f0e23618a8ea8479fcfd754ef5617b6d475a3c2a2fba8810760"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-i686-linux-musl-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -516,11 +516,11 @@ src_version = "17.0.6"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:032cc518ae675f001c4bb501bfa24c05fcf5a969"
+    treehash = "sha1:29057f7f5d7a4a6ef9a330e1a2015860fb4fba6c"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:1b287acd77c69b31b7783961b30f613774c06127dd59b7cd6c7abfa13cbb8f5a"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-i686-linux-musl-target+any.tar.gz"
+        tarball_hash = "sha256:13b7ae1afb398388ee28cf68dc082d94227606d8c190c2079bedd18bdf052cca"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-i686-linux-musl-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "aarch64-linux-musl-target+any"
@@ -543,18 +543,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:8814b0e139ba497ccb37fb109b37140653d52623"
+    treehash = "sha1:70dd3149e52ebdf65f96f455032a0acddcfed9c2"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:31f832f97ba84fa97396e760df71e1734d981c190867d4974c32209c194f302c"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-aarch64-linux-musl-target+any.tar.gz"
+        tarball_hash = "sha256:074b24e86fa8497d3ccb2f6b958f9611df314e9828aa21e34e05f2154d91e26f"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-aarch64-linux-musl-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:5001bc60ab89d3c2d42880a042c4a2f34a3973f8"
+    treehash = "sha1:ee70fbe820e908aa97420d5fb7d4d6550d2d17f6"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:eea3aab8528a7fb23590053aa39dd921d230b5ec0964355c23ba6dc69686aa0f"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-aarch64-linux-musl-target+any.tar.gz"
+        tarball_hash = "sha256:e91113968f2889085295873955d1a13f279d422cf049eeacd0098310d2540f31"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-aarch64-linux-musl-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -590,11 +590,11 @@ src_version = "17.0.6"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:4906b6f81397d2b5582be841b4cd8e93dbf1b246"
+    treehash = "sha1:94b1ced8f816db447c6bcffe0e21afd8d114337c"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:90a8537ea56673d40a87c92fc455ffca93348929d1ecd43c608964b7ddeaa144"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-aarch64-linux-musl-target+any.tar.gz"
+        tarball_hash = "sha256:43e407b94daba128ceb1a1697f6e3323be8cb7b8f7615f176dca8f3534165808"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-aarch64-linux-musl-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "armv6l-linux-musleabihf-target+any"
@@ -617,18 +617,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:664eb88a7d04bf8da8d44a7af8f6f2e07fa91cfd"
+    treehash = "sha1:66c6b1318056a9cb90e9526273432c06f8cb5a9a"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:8761e56ccc96bf0e1adb31246fb9930cc5b54a8f310529c9088fea8c71f2000d"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-armv6l-linux-musleabihf-target+any.tar.gz"
+        tarball_hash = "sha256:74667449dc18c91f99a15080922e904acece0720408e467174932b7b8427efce"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-armv6l-linux-musleabihf-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:9d5e596fc2d419b78a87492cc1e2010bf6821fc6"
+    treehash = "sha1:71dfe409c3e187f14627e21b99cd7670e3459d2a"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:0b2c3da9e0086cc8ddb4902f15be431ccf7fa4c40d8e34bc525d5dc434952900"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-armv6l-linux-musleabihf-target+any.tar.gz"
+        tarball_hash = "sha256:9e53e8a95c365155630b15b89ede711ed0b52135fabc80d6e305b7ca22f52875"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-armv6l-linux-musleabihf-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -664,11 +664,11 @@ src_version = "17.0.6"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:8a2c66b01d388901075a9066360158d1227ef0a4"
+    treehash = "sha1:8f313da9199c5614af6b5c3fb5ebe17e0f086dee"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:d428838d5d5c690fc67e5429cf5945f1e3091f79a60726e1a4633cecf4efd13e"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-armv6l-linux-musleabihf-target+any.tar.gz"
+        tarball_hash = "sha256:30328db172b11df0e92fad6fb459078a3d1186075a8196e3a294c4e25b6134b0"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-armv6l-linux-musleabihf-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "armv7l-linux-musleabihf-target+any"
@@ -691,18 +691,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:155e6cdc534df9ec2a3cf6ba1a38b0d121abb25d"
+    treehash = "sha1:5da148c93733e936904432747a415cc9e3c12f8e"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:fd7bb80cbdff9015e5af06f05a1359081611d6ffe44cb06b98aed9cc1860fdb6"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-armv7l-linux-musleabihf-target+any.tar.gz"
+        tarball_hash = "sha256:cd38c86c9773058772f9ba2503e5eb80492c0ab77889d00808b3c3cfe5ce4403"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-armv7l-linux-musleabihf-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:160a04bab06cda4a2356759f95685edbc895ff2c"
+    treehash = "sha1:56f3dd0a02fc45c128d59a4fb538f52e3aa2d840"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:1fdfd73a497ef866eda13b8f33226f73db444778f01591a5e7409e32ccd5cb39"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-armv7l-linux-musleabihf-target+any.tar.gz"
+        tarball_hash = "sha256:ecf297aa159f407b0df6f694775f32a028bdd111cb59f31a71437ac537b0a40b"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-armv7l-linux-musleabihf-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -738,11 +738,11 @@ src_version = "17.0.6"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:1b35a30267c5a58f2c64c9655245edcc28a36bad"
+    treehash = "sha1:eed967b11a0de43d1a1a52e595c49a816533580c"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:49d9ed3b2998dfd33f94685f1d8ff0825b4bfb725c1a8d282e9c2c4e263a9fb1"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-armv7l-linux-musleabihf-target+any.tar.gz"
+        tarball_hash = "sha256:c92b953b8a8a308d9a43730e1e1ff429855cf911137e38a4110dd7ed5dc40aab"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-armv7l-linux-musleabihf-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "x86_64-w64-mingw32-target+any"
@@ -765,18 +765,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:2656a26d37330be13985abab50800a571dfa222c"
+    treehash = "sha1:383ef8e43849bba9a8d84e4522438f29e4ff1232"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:c920464a148d7b288c8b74efcdaa8d0d256d4bbe60cdb96a74ddf3024c5836df"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-x86_64-w64-mingw32-target+any.tar.gz"
+        tarball_hash = "sha256:3e07f0625a82a1e22c47297ac8c4e4189674f13e93089baaa3fc71203237c80b"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-x86_64-w64-mingw32-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:659ac4b9c1ecbe0a137234d90357f0053b68cedf"
+    treehash = "sha1:15b36056821b1d3f5348a0b958480a764f7b5400"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:716c66f6478edfb3cf2fcd6f3a0d5ca87092f9b4ff708511b59e041ddee3561c"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-x86_64-w64-mingw32-target+any.tar.gz"
+        tarball_hash = "sha256:2e931cb847d093f7d5090e573b30681d95a78dfd2092932b87a8e6a1247a46fe"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-x86_64-w64-mingw32-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -812,11 +812,11 @@ src_version = "17.0.6"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:a77f48dce244ce87739bfbd8723387d5b17285bb"
+    treehash = "sha1:363ea34d06a2fc8cd2aaf83e497fb25f3dcc2b1f"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:1e45e59ce538d0a20c8b2e6213a210e54b8b8da423b127ee8dc627d020eef61c"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-x86_64-w64-mingw32-target+any.tar.gz"
+        tarball_hash = "sha256:96cfd6aeb9ee63ac61cf14b5c3249737141c4f8c86e77e8fd48eaa5b16cf0b41"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-x86_64-w64-mingw32-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "i686-w64-mingw32-target+any"
@@ -839,18 +839,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:b72673bb028695ec18ff2007588e3aa7dfe6d06a"
+    treehash = "sha1:7bb61d180946f0bde8cc1625b340a5888346df0e"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:e4f04f56a7e2c957052f07dccd683b32c86caf565bc3597bd76b186d60ad877b"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-i686-w64-mingw32-target+any.tar.gz"
+        tarball_hash = "sha256:b034cffc6ae15c9891dc570422c5430d16f36c236ac7f2207612815903292cce"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-i686-w64-mingw32-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:395f91e49e75fccf612988894b9ebfeb74842d5f"
+    treehash = "sha1:cfdd37421c2eca6da5697bdd4551a3640b756582"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:c48e789b852dc1fcf7bceccb2883ac55b0b573c2c4c5a5bee1eeb837321c487c"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-i686-w64-mingw32-target+any.tar.gz"
+        tarball_hash = "sha256:67d462ee64b3ba60f4a73d4fc78ef7a55de44cdfffe214dbdd7c4a9b0be13652"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-i686-w64-mingw32-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -886,14 +886,14 @@ src_version = "17.0.6"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:912c0d6327fa73c497faf8adc8ff82738ff40770"
+    treehash = "sha1:7e9780afee4289cf6a8306b5609e3668b266ccc6"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:24db507d1b9b219915d988fb9d420036d49748435cd85139bd8c72706993a3e1"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-i686-w64-mingw32-target+any.tar.gz"
+        tarball_hash = "sha256:d2db98198bfebf1ad1bc7361300fbdc7386c1591237c21d73b5c88198eb0b70e"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-i686-w64-mingw32-target+any.tar.gz"
 [[builds]]
 name = "Clang"
-platform = "x86_64-apple-darwin14-target+any"
+platform = "x86_64-apple-darwin20-target+any"
 lazy = "false"
 src_version = "17.0.6"
 
@@ -913,18 +913,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:c8f3a6dafbb2a05c819294c62160fdb70bc74849"
+    treehash = "sha1:38f6f2bc39f99ad240164aa7949fe9b2b8470639"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:ef712d0d3e7971fa3ce3e39a5dd2fac998da538cd3991ab1f97f53abae524f5d"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-x86_64-apple-darwin14-target+any.tar.gz"
+        tarball_hash = "sha256:855608b574d127bb2c92b788169439fb35477890114397cf950b16feb59865bd"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-x86_64-apple-darwin20-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:9cc9732634abdf8b79a603cd920d10473ae5b998"
+    treehash = "sha1:278dbd79ea6428708499f852eec7b35cb95b93bd"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:b6a32526dec3d973ce927f9bce84fda6fb04c747986ca9237a9915a573461cf2"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-x86_64-apple-darwin14-target+any.tar.gz"
+        tarball_hash = "sha256:0c93b284a62e60dec46a666d07cba8705d806a106254c60b13f418dd4bc8cebe"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-x86_64-apple-darwin20-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -960,11 +960,11 @@ src_version = "17.0.6"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:4b96b550f838cb1a80b9f7d081b156efc2bf49b6"
+    treehash = "sha1:e9aaeafe327910ffa7abe552a481aed4c8351557"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:768de40873fc558b863f9be501b0c7624cd9922ba47889b1beff4ca5b733470f"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-x86_64-apple-darwin14-target+any.tar.gz"
+        tarball_hash = "sha256:681bff8300220bc553ee52e4b774e651f10e1a7f4b38ecd3e3dc226d42c7fa65"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-x86_64-apple-darwin20-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "aarch64-apple-darwin20-target+any"
@@ -987,18 +987,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:1e9ef98caaebd9306c3727c1d5a7c6220e92f3e4"
+    treehash = "sha1:04d41f4a23f6dae60fe8eaa5073fdef07183ad25"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:43c3a0fd355562c171d50050e1f2952762f8826accef8eef2ac909b96fadfa2d"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-aarch64-apple-darwin20-target+any.tar.gz"
+        tarball_hash = "sha256:8b29e4e9bce90731ac7505edd1618fca7a23a7a292fdca2e851cd7074041da37"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-aarch64-apple-darwin20-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:9934050a92a81a44019471969a6ad772b3c2c245"
+    treehash = "sha1:784fd53e686bcd1e4bc14e8343c1dfb28389c1d2"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:54780c4b7e5454fddb962312320dbd687ebb3d23e0b452acbf0ca2f4ad5e608c"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-aarch64-apple-darwin20-target+any.tar.gz"
+        tarball_hash = "sha256:8bb09826c4f5d28f3bfa5923f2f9181434fafe411a6e1c283cc82cc9b215de07"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-aarch64-apple-darwin20-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -1034,11 +1034,11 @@ src_version = "17.0.6"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:65c30b37c7ec6e2be2fc8feff34f5838c9ee949e"
+    treehash = "sha1:dfebb361f2d39049ee8aa6fe008c0ab182a3c0a8"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:c071e2b7aceb951683e6a9f0bb9cd66197c49386b1ca57375292b47e552f77c4"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-aarch64-apple-darwin20-target+any.tar.gz"
+        tarball_hash = "sha256:ebbd46312739d35d21bc74b0a9fd9e27777b435d2fcc2ab3e9b025dd0bf415db"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-aarch64-apple-darwin20-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "x86_64-unknown-freebsd14.1-target+any"
@@ -1061,18 +1061,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:6fcd65a746af635eab090f73b17733aef15dcabb"
+    treehash = "sha1:4264e8371f61ebf42690b8d1b8569d7201036f6b"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:6c7537537c85cc6188152bc08e7ecdd021aec860cb9d33b240068e53cb2692e2"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-x86_64-unknown-freebsd14.1-target+any.tar.gz"
+        tarball_hash = "sha256:e70f8ed0f0bc8f09608c5b7625d19cdcf700698bd0adaeafbbc3e04c31742a09"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-x86_64-unknown-freebsd14.1-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:3d8c11f1487dfb530f5da20c0cf148132709b74b"
+    treehash = "sha1:35c6093f8bc897ea41d474c1a2eed350aeaa0a5a"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:8c15a7f5356fc953b7a254181856b6e26c2dce7ef2907ae288bbe355755dd490"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-x86_64-unknown-freebsd14.1-target+any.tar.gz"
+        tarball_hash = "sha256:80011b2399ef0c68b2f6a1a3863a45299017d5426aedf5a72c27024705172811"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-x86_64-unknown-freebsd14.1-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -1108,11 +1108,11 @@ src_version = "17.0.6"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:c0a339a5eabbd986e0e14ef4612c526903fa3cc4"
+    treehash = "sha1:5991fd360272141cad958bad596d8500f9eedebc"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:d06fde3b8ddae22330fd4d9b280617acc6a6c8ff9bcd652d5c503951d0d24c4e"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-x86_64-unknown-freebsd14.1-target+any.tar.gz"
+        tarball_hash = "sha256:a956a1ca9abeadeb420983001225683569df45c1d7079ca070214b52f4ce7c91"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-x86_64-unknown-freebsd14.1-target+any.tar.gz"
 [[builds]]
 name = "Clang"
 platform = "aarch64-unknown-freebsd14.1-target+any"
@@ -1135,18 +1135,18 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:71b5f00b6b93145e2b13bb8790e5c52cc44738fc"
+    treehash = "sha1:307b4b7bfcd37be27736d19a1fb0b95cb9865f32"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:0f8041247b3624ddf5988d889d8759542b6b5578517923ddb37f74786e49cd7f"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.8-aarch64-unknown-freebsd14.1-target+any.tar.gz"
+        tarball_hash = "sha256:de2f8011943e906ff4ab0baa59aec5be9d0bcb426c74837c2c106eefb7932ee8"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-build_log-v17.0.7-aarch64-unknown-freebsd14.1-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:5ccca123761dd9b9eb001bc0aee71c1926d6616b"
+    treehash = "sha1:54fb6f64170b6dce29108db5b3e71afb9e9fd551"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:ef1e4d7ad5c75f11a36bfa97121875ff82103ff3dbd3a1f446496c0fc9c97d26"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.8-aarch64-unknown-freebsd14.1-target+any.tar.gz"
+        tarball_hash = "sha256:5e7db691b928154d591c4d9f86bae105534ecd8d0b67a410da1f3e33675b2a54"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-extract_log-v17.0.7-aarch64-unknown-freebsd14.1-target+any.tar.gz"
 
     [[builds.products]]
     name = "clang"
@@ -1182,8 +1182,8 @@ src_version = "17.0.6"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:66ec5a74df6e80f544061d337cd1fe2b5d9f7f0a"
+    treehash = "sha1:fa75d2bb9e32380f86e52e60da622f7d96bcad03"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:d6ca3f2d5253be0cbac5e2828e8541dd129d13b4693b2aaeebfd622e6ee41ab1"
-        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.8-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.8-aarch64-unknown-freebsd14.1-target+any.tar.gz"
+        tarball_hash = "sha256:c5278de431cc4a95d5adad0984f0afef0356117f5f6d6d55a5b13a945a0364d9"
+        url = "https://github.com/staticfloat/Clang_jll.jl/releases/download/v17.0.7-GCCBootstrap-x86_64-linux-gnu/Clang-v17.0.7-aarch64-unknown-freebsd14.1-target+any.tar.gz"
